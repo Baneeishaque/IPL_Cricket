@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IPL Cricket</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_match__details">Match Details</string>
+
+    <string name="lisence">
+    <![CDATA[
+    <html>
+        <body>
+            <center>
+	        	<b>
+	            	NEWSAPP END USER SOFTWARE LICENSE AGREEMENT
+	        	</b>
+	    		<br/>
+	    		NewsApp is a FREE application...
+	    		<br/>
+	    		PLEASE READ THIS DOCUMENT CAREFULLY BEFORE USING THE SOFTWARE. 
+	    		BY DOWNLOADING OR USING THIS SOFTWARE, 
+	    		YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE AGREEMENT, 
+	    		THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS.
+	    		IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT, 
+	    		PROMPTLY EXIT THE INSTALLATION AND DELETE THE SOFTWARE.
+	    		<br/>
+	    		<br/>
+	    		<b>
+	        		DEFINITIONS
+	    		</b>
+	    		<br/>
+	    		"You" shall mean any person who downloads and/or installs the Software.
+	    		"Software" shall mean the software entitled NewsApp made available by 
+	    		NewsApp devolepment team for viewing and reading newspaper content and 
+	    		which is distributed along with this license agreement. 
+	    		<br/>
+	    		<br/>
+	    		<b>
+	        		LICENSE GRANT 
+	    		</b>
+	    		<br/>
+				You have no ownership rights in the Software and you have only a license 
+				to use the Software as long as this License Agreement remains force and 
+				effect. Ownership of the Software, Documentation and all intellectual 
+				property rights there in shall remain at all times with NewsApp 
+				Development team. Any use of the Software other than as provided in this 
+				license agreement by any person, business, corporation, government 
+				organization or any other entity is strictly forbidden and shall be a 
+				violation of this License Agreement.
+				<br/>
+				<br/>
+				<b>
+					INTELLECTUAL PROPERTY
+				</b>
+				<br>
+				
+				NewsApp Development team shall own all right, title and interest in intellectual property relating to the software
+				 including copyrights, patent rights, trade secrets and so on. This agreement shall not amount to
+				 transfer of intellectual property in the Software from NewsApp Development team to You except as expressly provided 
+				in this agreement.You shall retain the intellectual property, copyright, proprietary and attribution notices in 
+				the Software and documentation files accompanying it and shall not modify or remove
+				any such notices. The intellectual property over the content accessed by You using the Software shall be
+				owned by the publisher of such content and NewsApp Development team shall have no responsibility over such
+				content.
+				<br/>
+				<br/>
+				<b>
+					RESTRICTIONS
+				</b>
+				<br/>
+				
+				You may not decompile, reverse engineer, disassemble or otherwise reduce the Software to
+				a human-perceivable form. You may not modify, network, rent, lease, loan, sell,
+				distribute or create derivative works based upon the Software in whole or in part. The Software
+				may not be made available to multiple users at one time through any networking,terminal
+				access, downloading, internal time sharing or similar arrangement or otherwise.
+				<br/><br/>
+				<b>
+					CONFIDENTIALITY
+				</b>
+				<br/>
+				You acknowledge that the Software contains proprietary trade secrets of NewsApp Development tea mand You
+				hereby agree to maintain the confidentiality of the Software using at least as great a degree of
+				care as you use to maintain the confidentiality of your own confidential information.
+				<br/>
+				<br/>
+				<b>
+					WARRANTY AND LIABILITY
+				</b>
+				<br/>
+				
+				THIS SOFTWARE IS PROVIDED BY NewsApp Development team"AS IS" AND ANY EXPRESS OR IMPLIED
+				WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+				MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+				EVENT SHALL NewsApp Development team BE LIABLE FOR ANY DIRECT, INDIRECT,INCIDENTAL, SPECIAL,
+				EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+				PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+				OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+				WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+				OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+				ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+				NewsApp Development team provides you only the Software and does not warrant propriety,authenticity or
+				correctness of any information accessed using the Software. NewsApp Development team shall not be liable to you
+				for any cost,loss,damages (direct or indirect) and so on incurred by You due to the
+				information or content accessed by You using the Software. The publisher of such information
+				or content shall be solely liable for any action relating to such information or content.
+				<br/>
+				<br/>
+				<b>
+					ADVERTISEMENTS AND SUBSCRIPTION CHARGES
+				</b>
+				<br/>
+				You acknowledge that the services provided by Software are advertisement supported services
+				 and will carry advertisements from various sources.You hereby agree that You shall use the
+				Software only if you accept to receive such advertisements. For using the service offered by
+				the Software, You hereby acknowledge and agree to pay certain subscription charges apart
+				from regular data download charges as set by your operator. For any subscription charge to be
+				paid by You, explicit consent will be sought from you by your telecom operator. For any
+				such charges you are advised to contact your operator and NewsApp Development team shall not be liable for any
+				dispute regarding such charges.
+				<br/>
+				<br/>
+				
+				<b>
+					PRIVACY
+				</b>
+				<br/>
+				NewsApp Development team is committed towards protecting your personal data and information.
+				It shall take commercially acceptable reasonable measures to protect your personal data.
+				You hereby agree that You have read the terms and conditions laid down in the privacy policy and that you agree to such terms and conditions.
+				You hereby agree to allow NewsApp Development team to track information regarding your use of the Software and related services.
+				You further agree to allow NewsApp Development team to use your information and usage details for commercial purposes in accordance with NewsApp Development team\'s privacy policy.
+				<br/>
+				<br/>
+				<b>
+					TERMINATION
+				</b>
+				<br/>
+				This License Agreement is effective until it is terminated.You may terminate this License
+				Agreement at any time by destroying or returning to NewsApp Development team all copies of the Software
+				and Documentation in your possession or under your control.NewsApp Development team may terminate this License
+				Agreement for any reason, including, but not limited to breach of terms of this agreement.
+				Upon notification of termination, You agree to destroy or return to NewsApp Development team all copies of the
+				Software and Documentation and to certify in writing that all known copies,including backup
+				copies, have been destroyed. All provisions relating to confidentiality, intellectual property,
+				warranty and liability shall survive the termination of this agreement.
+				<br/>
+				<br/>
+				<b>
+					GENERAL
+				</b>
+				<br/>
+				This License Agreement shall constitute the entire Agreement between the parties here to. If any part of this License Agreement is found invalid or unenforceable by a court of competent jurisdiction, the remainder of this License Agreement shall be interpreted so as to reasonably affect the intention of the parties. NewsApp Development team shall have the right to modify the agreement at any point of time. However, You shall be bound by such modified license agreement only after a notice is given to you by NewsApp Development team. The application may not work on proxy setting access points. 
+				You agree to the terms and conditions of this agreement by clicking "Yes", "I Agree", "I Accept", "Next", "Ok" or by downloading and/or using the Software.     		
+				
+            </center>
+        </body>
+    </html>]]>
+    </string>
+    
+</resources>
